@@ -3,3 +3,6 @@ This file was created in the Round test.
 - Create the file in the bugFixRound branch
 - Push to github origin/bugFixRound
 - Pull Request to Origin main
+- Accept PR and merge with main
+- Pull origin/main to local main
+- Try merging local main with bugFixRound
