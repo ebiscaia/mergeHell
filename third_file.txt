@@ -1,2 +1,0 @@
-This is a third file
-It will be deleted by main after merging with bugFixParallel
