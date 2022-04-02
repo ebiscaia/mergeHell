@@ -1,3 +1,5 @@
+This is my version of a new line
+
 This is in the main branch and I will keep it
 
 This is in the main branch and I don't want it
