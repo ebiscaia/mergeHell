@@ -1,5 +1,5 @@
-This is in the main branch and I will keep it
+This is in the fugitive branch and I won't keep it
 
-This is in the main branch and I don't want it
+This is in the fugitive branch and I want it
 
-This is in the main branch and I will join it
+This is in the fugitive branch and I will join it
