@@ -1,5 +1,7 @@
+This a new line
+
 This is in the fugitive branch and I won't keep it                                                                                                                       
-  1  
-  2 This is in the fugitive branch and I want it
-  3  
-  4 This is in the fugitive branch and I will join it
+  
+This is in the fugitive branch and I want it
+  
+This is in the fugitive branch and I will join it
