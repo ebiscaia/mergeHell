@@ -1,3 +1,3 @@
 This was written in bugfix
 
-This was written in Rocky
+This change was made in both Rocky and Zorin
