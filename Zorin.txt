@@ -1,3 +1,5 @@
- This is a change for vim/fugitive
+This is in the main branch and I will keep it
 
- This file was created in Zorin
+This is in the main branch and I don't want it
+
+This is in the main branch and I will join it
