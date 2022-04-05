@@ -1,6 +1,7 @@
 This a new line
+This is my version of a new line
 
-This is in the fugitive branch and I won't keep it                                                                                                                       
+This is in the main branch and I will keep it                                                                                                                       
   
 This is in the fugitive branch and I want it
   
