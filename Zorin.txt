@@ -1,8 +1,5 @@
 This a text insert in branch 01
 
-
-
-
-
+This is a change made by branch 02
 
 Add this in the final line
