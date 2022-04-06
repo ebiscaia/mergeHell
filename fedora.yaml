@@ -11,5 +11,9 @@
 - hosts: all
   become: true
   roles:
+<<<<<<< HEAD
     - delete_user
 
+=======
+    - create_users
+>>>>>>> main
