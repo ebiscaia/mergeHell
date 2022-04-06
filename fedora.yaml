@@ -3,7 +3,7 @@
   roles:
     - basic_pkgs
 
--hosts:all
- become: true
+- hosts: all
+  become: true
   roles:
     - user_config
