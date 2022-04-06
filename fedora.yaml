@@ -1,0 +1,9 @@
+- hosts: all
+  become: true
+  roles:
+    - basic_pkgs
+
+-hosts:all
+ become: true
+  roles:
+    - user_config
