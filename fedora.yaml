@@ -7,3 +7,9 @@
   become: true
   roles:
     - user_config
+
+- hosts: all
+  become: true
+  roles:
+    - delete_user
+
