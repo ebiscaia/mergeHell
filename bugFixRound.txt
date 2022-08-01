@@ -6,3 +6,6 @@ This file was created in the Round test.
 - Accept PR and merge with main
 - Pull origin/main to local main
 - Try merging local main with bugFixRound
+
+
+- This is an extension of the file to compare git difftools
