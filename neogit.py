@@ -8,4 +8,3 @@ This is from main branch
 This is from main branch
 
 # This is to be excluded from both branches. Keep them filled
-This is from main branch
