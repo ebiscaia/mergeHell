@@ -1,6 +1,5 @@
 # This is a simple file to test some git integration
 
-# This is from main branch. Feature branch to be empty
 This is from main branch
 
 # This is from feature branch. Keep main branch empty
