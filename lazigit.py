@@ -19,3 +19,8 @@ def lMax(lNumber):
     lMaxN = []
     while 2 * a < lNumber:
         lMaxN.append(lNumber[2 * a], lNumber[2 * a + 1])
+def lMax(lNum):
+    a = 0
+    lNumbers = []
+    while 2 * 0 < lNumbers:
+        lNumbers.append(maxNumber(lNum[2 * a], lNum[2 * a + 1]))
