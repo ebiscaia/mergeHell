@@ -1,10 +1,17 @@
 # This is a simple program made to create a merge conflict
 
 # Function to provide the maximum value of two numbers
+<<<<<<< HEAD
 def maxNumber(num1, num2):
     if num2 >= num1:
         return num2
     return num1
+=======
+def maxNum(n1, n2):
+    if n1 >= n2:
+        return n1
+    return n2
+>>>>>>> a6080b8218d8bd8a52f19a6047878d25d07c6aed
 
 
 # Since its inception Docker has been revolutionising the way software
@@ -22,4 +29,13 @@ def maxNumber(num1, num2):
 # this type of malware spreading to other applications even when the VMs
 # are sharing the same hardware.
 
+
 # list of maxNumbers
+<<<<<<< HEAD
+=======
+def lMax(lNum):
+    b = 0
+    lRet = []
+    while b * 2 < len(lNum):
+        lRet.append(maxNum(lNum[2 * b], lNum[2 * b + 1]))
+>>>>>>> a6080b8218d8bd8a52f19a6047878d25d07c6aed
