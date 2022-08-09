@@ -23,9 +23,3 @@ def maxNumber(num1, num2):
 # are sharing the same hardware.
 
 # list of maxNumbers
-def maxNumbers(arrayofNumbers):
-    x = 0
-    newList = []
-    while 2 * x >= len(numbers):
-        newList.append(maxNumber(2 * x, 1 + 2 * x))
-    return newList
